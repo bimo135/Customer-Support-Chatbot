@@ -30,8 +30,7 @@ The chatbot is deployed on platforms like WhatsApp, allowing real-time communica
 3. Add or update custom code blocks with your logic.
 4. Deploy via Voiceflow to WhatsApp or other platforms.
 
-## 📸 Screenshots
-*(Add flow diagrams or message samples here)*
+
 
 ## 🗣️ Request the Chatbot Template
 Feel free to reach out via Issues or Discussions if you'd like access to the full Voiceflow chatbot template.
